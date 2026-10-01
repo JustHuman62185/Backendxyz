@@ -1,0 +1,6 @@
+{
+  "name": "VISION Bridge",
+  "description": "Central Node.js MCP Bridge for VISION, bridging Claude (MCP) and Android (WebSockets).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
